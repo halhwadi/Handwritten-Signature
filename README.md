@@ -51,7 +51,7 @@ Label = 0 (Nonmatching signatures)
 <br>
 <B>Model Structure:</B>
 
-![](RackMultipart20210524-4-1fc29x2_html_5d3fa3f25d609c30.png)
+![](https://github.com/halhwadi/handwritten-signature/blob/main/Model_structure.jpg)
 
 <br>
 <B>Training:</B>
