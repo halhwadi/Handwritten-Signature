@@ -35,9 +35,9 @@ Kaggle ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))
 
    \**There are 2 or 3 subfolders which are not named properly, please make sure that all folders which contain the images are named:
 
-   &quot;real&quot; for Genuine signatures
+     &quot;real&quot; for Genuine signatures
 
-   &quot;forge&quot; for forged Genuine
+     &quot;forge&quot; for forged Genuine
 
 <br>
 <B>visualization:</B>
