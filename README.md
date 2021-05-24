@@ -46,7 +46,7 @@ Label = 1 (Matching signatures)
 
 Label = 0 (Nonmatching signatures)
 
-![](RackMultipart20210524-4-1fc29x2_html_9c3a096a1fbf0b71.png)
+![](https://github.com/halhwadi/handwritten-signature/blob/main/Visulization.jpg)
 
 <br>
 <B>Model Structure:</B>
