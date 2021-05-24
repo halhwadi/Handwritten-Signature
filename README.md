@@ -37,7 +37,7 @@ Kaggle ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))
 
      &quot;real&quot; for Genuine signatures
 
-     &quot;forge&quot; for forged Genuine
+     &quot;forge&quot; for forged signatures
 
 <br>
 <B>visualization:</B>
