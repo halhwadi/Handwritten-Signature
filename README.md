@@ -30,10 +30,10 @@ Kaggle ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))
 
 <b>Usage:</B>
 
-1. Download the dataset ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))\*
+1. Download the dataset ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))\**
 2. Run the script.py ([file](https://github.com/halhwadi/handwritten-signature/blob/main/Script.ipynb))
 
-   \* there are 2 or 3 subfolders which are not named properly, please make sure that all folders which contain the images are named:
+   \**There are 2 or 3 subfolders which are not named properly, please make sure that all folders which contain the images are named:
 
    &quot;real&quot; for Genuine signatures
 
