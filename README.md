@@ -67,7 +67,7 @@ Label = 0 (Nonmatching signatures)
 <br>
 <B>Matching:</B>
 
-![](RackMultipart20210524-4-1fc29x2_html_9d9552707121fa3e.png)
+![](https://github.com/halhwadi/handwritten-signature/blob/main/prediction_matching.jpg)
 
 <br>
 <B>Nonmatching:<?B>
