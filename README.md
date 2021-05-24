@@ -1,29 +1,32 @@
 # handwritten signature
  Detect the Genuine and Forged signatuers
 
-<b>About Dataset:</b>
 
-Content
+
+<b>Content</b>
 
 Contains Genuine and Forged signatures of 30 people. Each person has 5 Genuine signatures which they made themselves and 5 Forged signatures someone else made.
  The naming of images is explained here.
  NFI-00602023 is an image of signature of person number 023 done by person 006. This is a forged signature. NFI-02103021 is an image of signature of person number 021 done by person 021. This is a genuine signature.
 
-Source:
+
+<b>Source:</b>
 
 Kaggle ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))
 
-Dataset Structure:
 
-Training Dataset folder:
+<b>Dataset Structure:</B>
 
-Dataset\_Signature\_Final\Dataset
+  <b>Training Dataset folder:</B>
 
-Validation and Testing Dataset folder:
+  Dataset\_Signature\_Final\Dataset
 
-sample\_Signature\sample\_Signature
+  <b>Validation and Testing Dataset folder:</B>
 
-Usage:
+  sample\_Signature\sample\_Signature
+
+
+<b>Usage:</B>
 
 1. Download the dataset ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))\*
 2. Run the script.py file
