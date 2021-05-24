@@ -44,7 +44,7 @@ Kaggle ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))
 
 Label = 1 (Matching signatures)
 
-Label = 0 (Nonmatching signatures)
+Label = 0 (Mismatching signatures)
 
 ![](https://github.com/halhwadi/handwritten-signature/blob/main/Visulization.jpg)
 
