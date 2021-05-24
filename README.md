@@ -5,7 +5,7 @@
 
 <b>Content</b>
 
-Contains Genuine and Forged signatures of 30 people. Each person has 5 Genuine signatures which they made themselves and 5 Forged signatures someone else made.
+This Dataset contains Genuine and Forged signatures of 30 people. Each person has 5 Genuine signatures which they made themselves and 5 Forged signatures someone else made.
  The naming of images is explained here.
  NFI-00602023 is an image of signature of person number 023 done by person 006. This is a forged signature. NFI-02103021 is an image of signature of person number 021 done by person 021. This is a genuine signature.
 
@@ -31,7 +31,7 @@ Kaggle ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))
 <b>Usage:</B>
 
 1. Download the dataset ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))\*
-2. Run the script.py file
+2. Run the script.py ([file](https://github.com/halhwadi/handwritten-signature/blob/main/Script.ipynb))
 
 \* there are 2 or 3 subfolders which are not named properly, please make sure that all folders which contain the images are named:
 
