@@ -58,7 +58,7 @@ Label = 0 (Nonmatching signatures)
 
 ![](https://github.com/halhwadi/handwritten-signature/blob/main/training.jpg)
 
-![](RackMultipart20210524-4-1fc29x2_html_deb9a1210d4457b3.png)
+![](https://github.com/halhwadi/handwritten-signature/blob/main/tensorboard.jpg)
 
 
 <br>
