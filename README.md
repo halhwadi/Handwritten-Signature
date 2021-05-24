@@ -14,6 +14,7 @@ Contains Genuine and Forged signatures of 30 people. Each person has 5 Genuine s
 
 Kaggle ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))
 
+<br>
 
 <b>Dataset Structure:</B>
 
@@ -25,6 +26,7 @@ Kaggle ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))
 
   sample\_Signature\sample\_Signature
 
+<br>
 
 <b>Usage:</B>
 
@@ -37,7 +39,8 @@ Kaggle ([link](https://www.kaggle.com/divyanshrai/handwritten-signatures))
 
 &quot;forge&quot; for forged Genuine
 
-visualization:
+<br>
+<B>visualization:</B>
 
 Label = 1 (Matching signatures)
 
@@ -45,22 +48,28 @@ Label = 0 (Nonmatching signatures)
 
 ![](RackMultipart20210524-4-1fc29x2_html_9c3a096a1fbf0b71.png)
 
-Model Structure:
+<br>
+<B>Model Structure:</B>
 
 ![](RackMultipart20210524-4-1fc29x2_html_5d3fa3f25d609c30.png)
 
-Training:
+<br>
+<B>Training:</B>
 
 ![](RackMultipart20210524-4-1fc29x2_html_a061e56feab8b4d9.png)
 
 ![](RackMultipart20210524-4-1fc29x2_html_deb9a1210d4457b3.png)
 
-Prediction:
 
-Matching:
+<br>
+<B>Prediction:</B>
+
+<br>
+<B>Matching:</B>
 
 ![](RackMultipart20210524-4-1fc29x2_html_9d9552707121fa3e.png)
 
-Nonmatching:
+<br>
+<B>Nonmatching:<?B>
 
 ![](RackMultipart20210524-4-1fc29x2_html_cbc80e1abb8318d.png)
